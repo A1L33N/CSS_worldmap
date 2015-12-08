@@ -1,0 +1,52 @@
+.map {
+  background-image: url('images/world_map.jpg');
+  background-repeat: no-repeat;
+  height: 900px;
+  width: 1800px;
+  position: relative;
+
+
+}
+
+img {
+  width: 50px;
+  height: 50px;
+  border: 2px solid white;
+  border-radius: 150px;
+  margin: auto;
+}
+
+.elephant {
+  position: absolute;
+  width: 75px;
+  right: 400px;
+  top: 300px;
+}
+
+.prairie-dog {
+  position: absolute;
+  width: 75px;
+  left: 340px;
+  top: 230px;
+}
+
+.wallaby {
+  position: absolute;
+  width: 75px;
+  right: 250px;
+  bottom: 200px;
+}
+
+.capuchin {
+  position: absolute;
+  width: 75px;
+  left: 600px;
+  bottom: 400px;
+}
+
+.agile_gibbon {
+  position: absolute;
+  width: 75px;
+  right: 410px;
+  top: 320px;
+}
